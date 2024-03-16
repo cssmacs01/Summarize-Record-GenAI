@@ -33,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>49370224c3c10a145a245123e4013180</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Copy of CrWF Demo - Add GenAI capabilities to workspace</sys_name>
         <sys_overrides/>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
@@ -41,7 +41,7 @@
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
         <sys_update_name>sys_hub_flow_49370224c3c10a145a245123e4013180</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:04:04</sys_updated_on>
+        <sys_updated_on>2024-03-16 23:09:00</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=49370224c3c10a145a245123e4013180"/>
@@ -996,7 +996,7 @@
         <sys_created_on>2024-03-16 20:38:09</sys_created_on>
         <sys_id>01370224c3c10a145a245123e40131b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Request Item</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1019,7 +1019,7 @@
         <sys_created_on>2024-03-16 20:38:09</sys_created_on>
         <sys_id>41370224c3c10a145a245123e40131bc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2008,7 +2008,7 @@
         <sys_created_on>2024-03-16 20:39:47</sys_created_on>
         <sys_id>09978e24c3c10a145a245123e40131da</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2031,7 +2031,7 @@
         <sys_created_on>2024-03-16 20:39:48</sys_created_on>
         <sys_id>c9978e24c3c10a145a245123e40131e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Request Item</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>

@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7acc8eacc3c10a145a245123e4013195</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Copy of CrWF Demo - Add Summarize Action</sys_name>
         <sys_overrides/>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_7acc8eacc3c10a145a245123e4013195</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:30:08</sys_updated_on>
+        <sys_updated_on>2024-03-16 23:08:56</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -234,18 +234,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=32cc8eacc3c10a145a245123e40131b4"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>32cc8eacc3c10a145a245123e40131b4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-16 21:02:35</sys_created_on>
-        <sys_id>32cc8eacc3c10a145a245123e40131e7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:02:35</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>fields</field>
         <id>32cc8eacc3c10a145a245123e40131b4</id>
         <sys_created_by>admin</sys_created_by>
@@ -268,18 +256,6 @@
         <sys_updated_on>2024-03-16 21:02:35</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_32cc8eacc3c10a145a245123e40131b4</table>
         <value>{{action.table.sys_scope.scope}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>32cc8eacc3c10a145a245123e40131b4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-16 21:02:35</sys_created_on>
-        <sys_id>f6cc8eacc3c10a145a245123e40131e7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:02:35</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -645,7 +621,7 @@
         <sys_created_on>2024-03-16 21:02:35</sys_created_on>
         <sys_id>36cc8eacc3c10a145a245123e40131e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1169,7 +1145,7 @@
         <sys_created_on>2024-03-16 21:02:35</sys_created_on>
         <sys_id>36cc8eacc3c10a145a245123e40131b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Fields</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1192,7 +1168,7 @@
         <sys_created_on>2024-03-16 21:02:34</sys_created_on>
         <sys_id>becc8eacc3c10a145a245123e40131a0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1217,7 +1193,7 @@
         <sys_created_on>2024-03-16 21:02:35</sys_created_on>
         <sys_id>0fcc8eacc3c10a145a245123e40131f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1240,7 +1216,7 @@
         <sys_created_on>2024-03-16 21:02:35</sys_created_on>
         <sys_id>8bcc8eacc3c10a145a245123e40131f4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1263,7 +1239,7 @@
         <sys_created_on>2024-03-16 21:02:35</sys_created_on>
         <sys_id>c3cc8eacc3c10a145a245123e40131ff</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -1584,18 +1560,6 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=a7dc42ecc3c10a145a245123e40131fe"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>a7dc42ecc3c10a145a245123e40131fe</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-16 21:02:54</sys_created_on>
-        <sys_id>a3dc82ecc3c10a145a245123e401312f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:02:54</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>fields</field>
         <id>a7dc42ecc3c10a145a245123e40131fe</id>
         <sys_created_by>admin</sys_created_by>
@@ -1618,18 +1582,6 @@
         <sys_updated_on>2024-03-16 21:02:54</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_a7dc42ecc3c10a145a245123e40131fe</table>
         <value>{{action.table.sys_scope.scope}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>a7dc42ecc3c10a145a245123e40131fe</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-03-16 21:02:54</sys_created_on>
-        <sys_id>67dc82ecc3c10a145a245123e401312f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-16 21:02:54</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -1995,7 +1947,7 @@
         <sys_created_on>2024-03-16 21:02:54</sys_created_on>
         <sys_id>a3dc82ecc3c10a145a245123e4013112</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2496,7 +2448,7 @@
         <sys_created_on>2024-03-16 21:02:54</sys_created_on>
         <sys_id>27dc42ecc3c10a145a245123e40131eb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2519,7 +2471,7 @@
         <sys_created_on>2024-03-16 21:02:54</sys_created_on>
         <sys_id>e3dc42ecc3c10a145a245123e40131ef</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Fields</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2544,7 +2496,7 @@
         <sys_created_on>2024-03-16 21:02:55</sys_created_on>
         <sys_id>7fdc82ecc3c10a145a245123e4013150</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2567,7 +2519,7 @@
         <sys_created_on>2024-03-16 21:02:55</sys_created_on>
         <sys_id>b7dc82ecc3c10a145a245123e401313a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
@@ -2590,7 +2542,7 @@
         <sys_created_on>2024-03-16 21:02:55</sys_created_on>
         <sys_id>ffdc82ecc3c10a145a245123e401314a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="GenAI Summarization CrWF Utility" source="49ffa5ecc3010a145a245123e40131e3">49ffa5ecc3010a145a245123e40131e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GenAI Summarization CrWF Utility">49ffa5ecc3010a145a245123e40131e3</sys_scope>
